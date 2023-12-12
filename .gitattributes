@@ -1,2 +1,15 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+#p1 {
+    background-color:coral;
+    border-style: double;
+}
+#p2 {
+    border-style: double;
+}
+#p3 {
+    border-style: double;
+}
+#p4 {
+    border-style: double;
+}

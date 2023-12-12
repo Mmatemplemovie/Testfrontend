@@ -1,6 +1,51 @@
-body{
-    font-size: 12px;
+div{
+    background-color: burlywood;
+    width: 1900px;
+    height: 100px;
+    text-align: center;
+    position: absolute;
 }
-p{
-    
+#div1{
+    background-color: darksalmon;
+    top: 108px;
+    width: 300px;
+    height: 500px;
+    text-align: left;
+    position: absolute;           
+}
+#div2{
+    background-color:darkorange;
+    left: 308px;
+    top: 108px;
+    width: 1300px;
+    height: 500px;
+    text-align: left;
+    position: absolute;
+    padding-left: 10px;
+}
+#div3{
+    background-color:darksalmon;
+    left: 1608px;
+    top: 108px;
+    width: 300px;
+    height: 500px;
+    text-align: left;
+    position: absolute;
+}
+#div4{
+    background-color:burlywood;
+    top: 600px;
+    width: 1900px;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    display: table-caption;
+}
+p {
+    width: auto;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background-color:coral;
+    border-style: double;
 }
